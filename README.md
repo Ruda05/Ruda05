@@ -1,5 +1,5 @@
-<h1lay="center">Cześć 👋, jestem Beata</h1>
-<h3lay="center">Nowe ścieżki nie są mi obce i tak rozpoczęłam przygodę z programowaniem...</h3>
+Cześć 👋, jestem Beata
+Nowe ścieżki nie są mi obce i tak rozpoczęłam przygodę z programowaniem...
 
 <p wyrównanie="left"> <img src="https://komarev.com/ghpvc/?username=ruda05&label=Profile%20views&color=0e75b6&style=flat" alt="ruda05" /> </p>
 
