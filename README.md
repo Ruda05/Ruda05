@@ -1,6 +1,6 @@
 Cześć 👋, jestem Beata
 
-Nowe ścieżki nie są mi obce i tak rozpoczęłam przygodę z programowaniem...
+Nowe drogi nie są mi obce i tak rozpoczęłam przygodę z programowaniem...
 
 <p wyrównanie="left"> <img src="https://komarev.com/ghpvc/?username=ruda05&label=Profile%20views&color=0e75b6&style=flat" alt="ruda05" /> </p>
 
