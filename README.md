@@ -1,18 +1,18 @@
-Cześć 👋, jestem Beata
+Cześć 👋, I'm Beata
 
-Nowe drogi nie są mi obce i tak rozpoczęłam przygodę z programowaniem...
+I'm no stranger to new paths and that's how I started my adventure with programming...
 
 <p wyrównanie="left"> <img src="https://komarev.com/ghpvc/?username=ruda05&label=Profile%20views&color=0e75b6&style=flat" alt="ruda05" /> </p>
 
-- 🔭 Jestem obecnie pracuję nad **AnkaraLab**
+- 🔭 Currently working on **AnkaraLab**
 
-- 🌱 Aktualnie się uczę **wszystko co związane z programowaniem**
+- 🌱 I am currently studying **wszystko co związane z programowaniem**
 
-- 💬 Zapytaj mnie o **Python, #C, Java Script, SQL**
+- 💬 Ask me **Python, #C, Java Script, SQL**
 
-- 📫 Jak się ze mną skontaktować **be.piekarek@gmail.com**
+- 📫 How to contact me **be.piekarek@gmail.com**
 
-- ⚡ Ciekawostka **Programista na GitHubie jest jak szef kuchni w restauracji: wszyscy chwalą przepisy, ale prawdziwa magia dzieje się w gałęziach!** <
+- ⚡ Fun **Programista na GitHubie jest jak szef kuchni w restauracji: wszyscy chwalą przepisy, ale prawdziwa magia dzieje się w gałęziach!** <
 
 h3lay="left"> Połącz się ze mną:</h3>
 <play="left">
